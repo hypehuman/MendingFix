@@ -3,10 +3,11 @@
 gradle/
 gradlew
 gradlew.bat
+gradle.properties
 build
 eclipse
-gradle.properties
 .idea
-workspace/README.txt
 *.iml
+workspace/README.txt
 workspace/src
+workspace/run
