@@ -1,0 +1,12 @@
+*.zip
+.gradle
+gradle/
+gradlew
+gradlew.bat
+build
+eclipse
+gradle.properties
+.idea
+workspace/README.txt
+*.iml
+workspace/src
